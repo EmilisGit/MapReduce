@@ -1,0 +1,5 @@
+/home/emilis/projects/lab1/Map/bin/Release/net9.0/publish/Map
+/home/emilis/projects/lab1/Map/bin/Release/net9.0/publish/Map.dll
+/home/emilis/projects/lab1/Map/bin/Release/net9.0/publish/Map.deps.json
+/home/emilis/projects/lab1/Map/bin/Release/net9.0/publish/Map.runtimeconfig.json
+/home/emilis/projects/lab1/Map/bin/Release/net9.0/publish/Map.pdb

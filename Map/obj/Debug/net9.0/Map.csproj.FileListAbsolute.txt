@@ -1,0 +1,14 @@
+/home/emilis/projects/lab1/Map/bin/Debug/net9.0/Map
+/home/emilis/projects/lab1/Map/bin/Debug/net9.0/Map.deps.json
+/home/emilis/projects/lab1/Map/bin/Debug/net9.0/Map.runtimeconfig.json
+/home/emilis/projects/lab1/Map/bin/Debug/net9.0/Map.dll
+/home/emilis/projects/lab1/Map/bin/Debug/net9.0/Map.pdb
+/home/emilis/projects/lab1/Map/obj/Debug/net9.0/Map.GeneratedMSBuildEditorConfig.editorconfig
+/home/emilis/projects/lab1/Map/obj/Debug/net9.0/Map.AssemblyInfoInputs.cache
+/home/emilis/projects/lab1/Map/obj/Debug/net9.0/Map.AssemblyInfo.cs
+/home/emilis/projects/lab1/Map/obj/Debug/net9.0/Map.csproj.CoreCompileInputs.cache
+/home/emilis/projects/lab1/Map/obj/Debug/net9.0/Map.dll
+/home/emilis/projects/lab1/Map/obj/Debug/net9.0/refint/Map.dll
+/home/emilis/projects/lab1/Map/obj/Debug/net9.0/Map.pdb
+/home/emilis/projects/lab1/Map/obj/Debug/net9.0/Map.genruntimeconfig.cache
+/home/emilis/projects/lab1/Map/obj/Debug/net9.0/ref/Map.dll

@@ -1,0 +1,5 @@
+/home/emilis/projects/lab1/Reduce/bin/Release/net9.0/publish/Reduce
+/home/emilis/projects/lab1/Reduce/bin/Release/net9.0/publish/Reduce.dll
+/home/emilis/projects/lab1/Reduce/bin/Release/net9.0/publish/Reduce.deps.json
+/home/emilis/projects/lab1/Reduce/bin/Release/net9.0/publish/Reduce.runtimeconfig.json
+/home/emilis/projects/lab1/Reduce/bin/Release/net9.0/publish/Reduce.pdb

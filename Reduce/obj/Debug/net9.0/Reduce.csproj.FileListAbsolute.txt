@@ -1,0 +1,14 @@
+/home/emilis/projects/lab1/Reduce/bin/Debug/net9.0/Reduce
+/home/emilis/projects/lab1/Reduce/bin/Debug/net9.0/Reduce.deps.json
+/home/emilis/projects/lab1/Reduce/bin/Debug/net9.0/Reduce.runtimeconfig.json
+/home/emilis/projects/lab1/Reduce/bin/Debug/net9.0/Reduce.dll
+/home/emilis/projects/lab1/Reduce/bin/Debug/net9.0/Reduce.pdb
+/home/emilis/projects/lab1/Reduce/obj/Debug/net9.0/Reduce.GeneratedMSBuildEditorConfig.editorconfig
+/home/emilis/projects/lab1/Reduce/obj/Debug/net9.0/Reduce.AssemblyInfoInputs.cache
+/home/emilis/projects/lab1/Reduce/obj/Debug/net9.0/Reduce.AssemblyInfo.cs
+/home/emilis/projects/lab1/Reduce/obj/Debug/net9.0/Reduce.csproj.CoreCompileInputs.cache
+/home/emilis/projects/lab1/Reduce/obj/Debug/net9.0/Reduce.dll
+/home/emilis/projects/lab1/Reduce/obj/Debug/net9.0/refint/Reduce.dll
+/home/emilis/projects/lab1/Reduce/obj/Debug/net9.0/Reduce.pdb
+/home/emilis/projects/lab1/Reduce/obj/Debug/net9.0/Reduce.genruntimeconfig.cache
+/home/emilis/projects/lab1/Reduce/obj/Debug/net9.0/ref/Reduce.dll
